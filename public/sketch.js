@@ -10,11 +10,9 @@ function setup() {
     noStroke();
     ellipse(data.x, data.y, 10, 10);
   });
-  // put setup code here
 }
 
 function draw() {
-  // put drawing code here
 }
 
 function mouseDragged(){
